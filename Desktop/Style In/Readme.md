@@ -82,7 +82,7 @@ The platform is:
 ### ☁️ Cloudinary
 Used for secure image hosting and optimization.
 
-### 💳 Stripe/C)D
+### 💳 Stripe/COD
 Used for secure payment processing.
 
 ### 📧 Nodemailer
